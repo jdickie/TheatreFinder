@@ -27,7 +27,7 @@ $config['base_url']	= "http://107.20.241.32/theatrefinder/";
 |	/Users/jgsmith/Sites/TheatreFinder
 |
 */
-$config['site_root'] = '/Users/jgsmith/Sites/TheatreFinder';
+$config['site_root'] = 'http://107.20.241.32/theatrefinder';
 
 /*
 |--------------------------------------------------------------------------
