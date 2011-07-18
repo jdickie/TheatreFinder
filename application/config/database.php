@@ -60,8 +60,8 @@ $db['default']['dbcollat'] = "utf8_general_ci";
  * Remember to turn off db_debug in production
  */
 $db['theatrefinder']['hostname'] = "localhost";
-$db['theatrefinder']['username'] = "tf_admin";
-$db['theatrefinder']['password'] = "tfed1t0r";
+$db['theatrefinder']['username'] = "root";
+$db['theatrefinder']['password'] = "root";
 $db['theatrefinder']['database'] = "theatrefinder";
 $db['theatrefinder']['dbdriver'] = "mysql";
 $db['theatrefinder']['dbprefix'] = "";
