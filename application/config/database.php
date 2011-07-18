@@ -61,7 +61,7 @@ $db['default']['dbcollat'] = "utf8_general_ci";
  */
 $db['theatrefinder']['hostname'] = "localhost";
 $db['theatrefinder']['username'] = "root";
-$db['theatrefinder']['password'] = "root";
+$db['theatrefinder']['password'] = "t!CK";
 $db['theatrefinder']['database'] = "theatrefinder";
 $db['theatrefinder']['dbdriver'] = "mysql";
 $db['theatrefinder']['dbprefix'] = "";
