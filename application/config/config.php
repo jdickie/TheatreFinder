@@ -27,7 +27,7 @@ $config['base_url']	= "http://107.20.241.32/theatrefinder/";
 |	/Users/jgsmith/Sites/TheatreFinder
 |
 */
-$config['site_root'] = 'http://107.20.241.32/theatrefinder/views';
+$config['site_root'] = 'http://107.20.241.32/theatrefinder/application/views';
 
 /*
 |--------------------------------------------------------------------------
@@ -57,7 +57,7 @@ $config['index_page'] = "";
 | 'ORIG_PATH_INFO'	Uses the ORIG_PATH_INFO
 |
 */
-$config['uri_protocol']	= "AUTO";
+$config['uri_protocol']	= "QUERY_STRING";
 
 /*
 |--------------------------------------------------------------------------
