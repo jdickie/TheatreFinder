@@ -12,7 +12,7 @@
 |
 */
 // local base_url
-$config['base_url']	= "http://localhost:8888/TheatreFinder/";
+$config['base_url']	= "http://107.20.241.32/theatrefinder/";
 // peach base_url
 //$config['base_url'] = "http://peach.umd.edu/TheatreFinder/";
 
